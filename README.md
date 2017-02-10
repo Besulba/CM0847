@@ -1,6 +1,4 @@
 # Algorithm
-
-Algorithm contains a set of algorithm problems
  
 Camilo Andrés Rodríguez Garzón
 
@@ -29,6 +27,7 @@ or not each of a number of sequences is a jolly jumper.
 ### Little Bishops
 
 ```
+A bishop is a piece used in the game of chess which can only move diagonally from its current position. Two bishops attack each other if one is on the path of the other. In the figure below, the dark squares represent the reachable locations for bishop B1 from its current position. Bishops B1 and B2 are in attacking position, while B1 and B3 are not. Bishops B2 and B3 are also in non-attacking position.
 ```
 ### Multiplication Game
 
