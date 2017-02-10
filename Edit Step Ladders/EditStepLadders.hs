@@ -94,3 +94,4 @@ isSon (x:xs) (y:ys) n
   where
   lgx = length xs
   lgy = length ys
+  
