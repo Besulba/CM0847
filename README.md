@@ -68,5 +68,5 @@ of money that must change hands in order to equalize (within a cent) all the stu
 ### Triqui
 
 ```
-The classic triki game
+The classic Triqui game
 ```
